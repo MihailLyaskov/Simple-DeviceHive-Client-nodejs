@@ -1,0 +1,18 @@
+{
+  "name": "dhclient",
+  "version": "1.0.0",
+  "description": "Client to DeviceHive",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "keywords": [
+    "DeviceHive"
+  ],
+  "author": "Mihail Lyaskov",
+  "license": "MIT",
+  "dependencies": {
+    "ws": "^1.1.1",
+    "xhr2": "^0.1.3"
+  }
+}
